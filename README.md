@@ -5,8 +5,8 @@ I created new images for all elements, changed the canvas size, then tweaked mov
 
 Forked from the wonderful folks at Lost Decade Games.  Original build by Matt Hackett.
 
-Watch me play on youtube - 
-Or read the transcript for the tiles - 
+Watch me play on youtube - http://www.youtube.com/watch?v=SZL1SLA8fT0
+Or read the transcript for the tiles - http://spencergoodwinndsr.blogspot.com/2014/05/game-transcript-by-spencer-goodwin.html
 
 Original README as follows: 
 
